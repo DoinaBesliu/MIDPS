@@ -30,15 +30,15 @@
     <USERDEFINES value="_DEBUG"/>
     <SYSDEFINES value="_RTLDLL;NO_STRICT;USEPACKAGES"/>
     <MAINSOURCE value="Project1.cpp"/>
-    <INCLUDEPATH value="&quot;C:\Program Files (x86)\Borland\CBuilder6\Projects&quot;;&quot;C:\Users\Pete126\Desktop\all\MIDPS Lab1\Priject 3&quot;;$(BCB)\include;$(BCB)\include\vcl"/>
-    <LIBPATH value="&quot;C:\Program Files (x86)\Borland\CBuilder6\Projects&quot;;&quot;C:\Users\Pete126\Desktop\all\MIDPS Lab1\Priject 3&quot;;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <INCLUDEPATH value="&quot;C:\Program Files (x86)\Borland\CBuilder6\Projects&quot;;&quot;C:\Users\Cristi\Desktop\MIDPS\MIDPSS\Laborator Nr.1\Partea 3&quot;;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="&quot;C:\Program Files (x86)\Borland\CBuilder6\Projects&quot;;&quot;C:\Users\Cristi\Desktop\MIDPS\MIDPSS\Laborator Nr.1\Partea 3&quot;;$(BCB)\lib\obj;$(BCB)\lib"/>
     <WARNINGS value="-w-par"/>
     <OTHERFILES value=""/>
   </MACROS>
   <OPTIONS>
     <IDLCFLAGS value="-I&quot;C:\Program Files (x86)\Borland\CBuilder6\Projects&quot; 
-      -I&quot;C:\Users\Pete126\Desktop\all\MIDPS Lab1\Priject 3&quot; -I$(BCB)\include 
-      -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG -boa"/>
+      -I&quot;C:\Users\Cristi\Desktop\MIDPS\MIDPSS\Laborator Nr.1\Partea 3&quot; 
+      -I$(BCB)\include -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG -boa"/>
     <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c 
       -tW -tWM"/>
     <PFLAGS value="-$YD -$W -$O- -$A8 -v -JPHNE -M"/>
@@ -74,8 +74,8 @@ PreRelease=0
 Special=0
 Private=0
 DLL=0
-Locale=1049
-CodePage=1251
+Locale=1033
+CodePage=1252
 
 [Version Info Keys]
 CompanyName=
@@ -113,5 +113,10 @@ LinkCGLIB=0
 AddServerUnit=1
 AddClientUnit=1
 PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
   </IDEOPTIONS>
 </PROJECT>
