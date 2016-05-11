@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 268
-  Top = 147
+  Left = 190
+  Top = 123
   Width = 493
   Height = 495
   Caption = 'MIDPS 1-A'

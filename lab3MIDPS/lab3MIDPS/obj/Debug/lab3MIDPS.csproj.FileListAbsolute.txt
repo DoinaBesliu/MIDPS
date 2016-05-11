@@ -1,0 +1,9 @@
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\bin\Debug\lab3MIDPS.exe.config
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\bin\Debug\lab3MIDPS.exe
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\bin\Debug\lab3MIDPS.pdb
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.csprojResolveAssemblyReference.cache
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.Form1.resources
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.Properties.Resources.resources
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.csproj.GenerateResource.Cache
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.exe
+C:\Users\Doina PC\Desktop\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.pdb
