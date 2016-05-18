@@ -1,0 +1,39 @@
+C:\Users\Visual\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Visual\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Visual\Desktop\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.exe
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Visual\Desktop\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+I:\VERBATIM(HDD)\All Desktop Files( UTM )\UTM\Semestru IV\MIDPS\Calculator(V_1)\Calculator\bin\Debug\Calculator.exe.config
+I:\VERBATIM(HDD)\All Desktop Files( UTM )\UTM\Semestru IV\MIDPS\Calculator(V_1)\Calculator\obj\Debug\Calculator.exe
+I:\VERBATIM(HDD)\All Desktop Files( UTM )\UTM\Semestru IV\MIDPS\Calculator(V_1)\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.exe
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.exe
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Doina PC\Desktop\Calculator(V_1)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
