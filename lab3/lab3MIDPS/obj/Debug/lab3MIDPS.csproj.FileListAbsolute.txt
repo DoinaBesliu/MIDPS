@@ -19,3 +19,6 @@ C:\Users\Doina PC\Desktop\project\lab3MIDPS\lab3MIDPS\obj\Debug\lab3MIDPS.csproj
 C:\Users\Doina PC\Desktop\project\lab\lab3MIDPS\bin\Debug\lab3MIDPS.exe.config
 C:\Users\Doina PC\Desktop\project\lab\lab3MIDPS\obj\Debug\lab3MIDPS.exe
 C:\Users\Doina PC\Desktop\project\lab\lab3MIDPS\obj\Debug\lab3MIDPS.pdb
+C:\Users\Doina PC\Desktop\project\lab3\lab3MIDPS\bin\Debug\lab3MIDPS.exe.config
+C:\Users\Doina PC\Desktop\project\lab3\lab3MIDPS\obj\Debug\lab3MIDPS.exe
+C:\Users\Doina PC\Desktop\project\lab3\lab3MIDPS\obj\Debug\lab3MIDPS.pdb
